@@ -1,0 +1,7 @@
+com\example\tienda\controller\UsuarioNotFoundException.class
+com\example\tienda\repository\UsuarioRepository.class
+com\example\tienda\service\UsuarioServiceImpl.class
+com\example\tienda\controller\UsuarioController.class
+com\example\tienda\tiendaApplication.class
+com\example\tienda\service\UsuarioService.class
+com\example\tienda\model\Usuario.class

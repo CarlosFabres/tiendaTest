@@ -1,0 +1,3 @@
+com\example\tienda\tiendaApplicationTests.class
+com\example\tienda\repository\UsuarioRepositoryTest.class
+com\example\tienda\service\UsuarioServiceTest.class
